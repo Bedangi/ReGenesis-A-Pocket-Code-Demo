@@ -1,26 +1,23 @@
 # ReGenesis: Zero Civilization
 
+## Proof Of Concept (a short video) : https://drive.google.com/file/d/1GdYRD7Udf9uGXiNK0-aXDTvpjfv26bDL/view?usp=sharing
+
 ## Overview
 This project is a Pocket Code demo game inspired by the idea of civilization restarting from zero after a global catastrophe. The player must rediscover basic tools by exploring the environment, gathering resources, and logically combining materials.
 
 ## Core Idea
 The game combines:
-1. Resource gathering (inspired by sandbox games)
+1. Resource gathering
 2. Logical discovery of crafting recipes
 3. Gradual unlocking of gameplay mechanics
 
-## Planned Core Gameplay Loop
-1. Player starts with no tools
-2. Player explores a small map
-3. Resources like wood and stone can be collected
-4. The player discovers the correct combination to craft a basic tool
-5. Crafted tools unlock new interactions and progression
-
-## Initial Scope
-1. One map
-2.Two base resources (wood, stone)
-3.One craftable tool (axe)
-4.One progression unlock
+## Current Features
+1. Player can choose between two characters
+2. Player starts with no tools
+3. Player explores a small map
+4. Resources like wood and stone can be collected
+5. The player discovers the correct combination to craft a basic tool - an axe
+6. Crafted tools unlock new interactions and progression
 
 ## Educational Value
 The game encourages:
@@ -28,3 +25,10 @@ The game encourages:
 2.Cause–effect thinking
 3.Understanding progression systems
 4.Problem-solving through experimentation
+
+## Future Work
+1. Modular and scalable inventory system
+2. Save and load game progress
+3. Tool durability and breakage system
+4. Multi-tier tools and resources
+5. Testing and Optimization
