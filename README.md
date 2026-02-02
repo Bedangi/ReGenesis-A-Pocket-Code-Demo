@@ -1,6 +1,6 @@
 # ReGenesis: Zero Civilization
 
-## Proof Of Concept (a short video) : https://drive.google.com/file/d/1GdYRD7Udf9uGXiNK0-aXDTvpjfv26bDL/view?usp=sharing
+## Proof Of Concept (a short video) : https://drive.google.com/file/d/1QoL990UhoSXc4y_Hmg0WZC2iey5Os3Ae/view?usp=drive_link
 
 ## Overview
 This project is a Pocket Code demo game inspired by the idea of civilization restarting from zero after a global catastrophe. The player must rediscover basic tools by exploring the environment, gathering resources, and logically combining materials.
